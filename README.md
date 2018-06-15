@@ -7,6 +7,11 @@ This repository is the starting point for a Cypress workshop. I encourage you to
 1.  Clone this repository
 2.  Install dependencies with `npm i` from this project's root directory
 
+## Resources
+
+- [Cypress API docs](https://docs.cypress.io/api/introduction/api.html#)
+- [Slides](https://slides.com/avanslaars/cy-workshop/live#/)
+
 ## Copy Pasta
 
 Some things just aren't worth typing. We'll copy and past some values when the time is right.
