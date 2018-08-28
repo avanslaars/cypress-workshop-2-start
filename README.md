@@ -10,7 +10,7 @@ This repository is the starting point for a Cypress workshop. I encourage you to
 ## Resources
 
 - [Cypress API docs](https://docs.cypress.io/api/introduction/api.html#)
-- [Slides](https://slides.com/avanslaars/cy-workshop/live#/)
+- [Slides](https://slides.com/avanslaars/cy-workshop-cengage/live#/)
 
 ## Copy Pasta
 
